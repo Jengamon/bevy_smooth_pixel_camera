@@ -19,7 +19,7 @@ bevy = { version = "0.13", default-features = false, features = [
 ] }
 
 [dev-dependencies]
-bevy = { git = "https://github.com/bevyengine/bevy" }
+bevy = { version = "0.13" }
 
 [lints]
 rust.missing_docs = "warn"
